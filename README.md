@@ -5,6 +5,8 @@ This project builds a **transactional relational database** and a **data warehou
 - Market share and profit analysis.
 - Treatment effectiveness evaluation.
 - Secure, role-based patient record access.
+  
+**Presentation**: [View Final Presentation](reports/final-presentation.pdf)
 
 The work includes SQL scripts for database creation, queries, fact tables, and stored procedures, plus a final business analysis presentation.
 
