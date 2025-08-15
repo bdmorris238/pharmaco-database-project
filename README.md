@@ -39,4 +39,4 @@ The work includes SQL scripts for database creation, queries, fact tables, and s
 ## How to Use
 1. Clone repo:
    ```bash
-   git clone https://github.com/YOURUSERNAME/pharmaco-database-project.git
+   git clone https://github.com/bdmorris238/pharmaco-database-project.git
