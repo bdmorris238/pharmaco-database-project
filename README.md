@@ -42,3 +42,11 @@ The work includes SQL scripts for database creation, queries, fact tables, and s
 1. Clone repo:
    ```bash
    git clone https://github.com/bdmorris238/pharmaco-database-project.git
+
+
+
+  ## Next Steps
+- Automate data loading using Python or SQL ETL scripts.
+- Add tests for SQL queries and schema validation.
+- Compare cost-benefit metrics across different acquisition scenarios.
+- Deploy schema definitions and queries using Infrastructure-as-Code (e.g., Terraform).
